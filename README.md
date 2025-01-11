@@ -46,7 +46,7 @@ Now the data is ready for exloratory data analysis.
 To ensure that the earlier highlighted questions are answered with ease, i made use of pivot tables to further summarize my dataset.
 
 Here is a glance at some of the pivot tables i created
-![screenshot (133).png](https://github.com/Blessing-Kalanda/Microsoft-Excel-Project/blob/923e3b6d1aeebfc7107f04bf9b1d769adb72595f/Screenshot%20(133).png)
+![Image Alt](https://github.com/Blessing-Kalanda/Microsoft-Excel-Project/blob/923e3b6d1aeebfc7107f04bf9b1d769adb72595f/Screenshot%20(133).png)
 Each question will now be answered by the use of the pivot tabel created and subsequently visualized by the use of Pivot Charts.
 
 1. Which retailer generated the highest revenue?
