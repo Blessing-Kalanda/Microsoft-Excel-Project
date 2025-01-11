@@ -45,7 +45,7 @@ Now the data is ready for exloratory data analysis.
 
 To ensure that the earlier highlighted questions are answered with ease, i made use of pivot tables to further summarize my dataset.
 
-Here is a glance at some of the pivot tables i created.
+Here is a glance at some of the pivot tables i created
 
 Each question will now be answered by the use of the pivot tabel created and subsequently visualized by the use of Pivot Charts.
 
